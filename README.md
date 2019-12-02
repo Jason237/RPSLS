@@ -9,14 +9,14 @@ The game was mentioned in three episodes of The Big Bang Theory. According to an
 
 ##Rules
 
-The rules of Rock-paper-scissors-lizard-Spock are:
+The rules of Rock-Paper-Scissors-Lizard-Spock are:
 
 * Scissors cut paper
 * Paper covers rock
 * Rock crushes lizard
 * Lizard poisons Spock
-* Spock smashes (or melts) scissors
-* Scissors decapitate lizard
+* Spock smashes scissors
+* Scissors decapitates lizard
 * Lizard eats paper
 * Paper disproves Spock
 * Spock vaporizes rock
@@ -32,5 +32,3 @@ One way to remember the rules is to remember the standard "rock-paper-scissors" 
 5.  Scissors
 
 In this expanded list, each gesture is defeated by the following *two* options, and defeats the preceding two.
-
-Since the Spock gesture is known to be notoriously difficult for some people to perform, some players may be disadvantaged while playing this variant. The fingers must be moved quickly into the final position from a closed fist, which means that many people will not be able to use Spock, thus cutting down their options.
